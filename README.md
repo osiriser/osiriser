@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Title -->
+<h1 align="center">Hey, I'm Radomir Bakhtigareev 👋</h1>
 
-<!--
-**osiriser/osiriser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/osiriser"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
+  <a href="mailto:radomir2012b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+Hi! I'm Radomir Bakhtigareev, a 16 y.o. developer from Russia.  
+I'm passionate about building real-world products using Python, Kotlin, PostgreSQL, and AI technologies.  
+
+I specialize in:
+- Telegram bot development with complex business logic and integrations (Aiogram 3.x)
+- Web backends using FastAPI + PostgreSQL
+- Subscription systems, referral programs, points logic, e-commerce features
+- Frontend interfaces using HTML/CSS/JavaScript
+- Deploying projects on Linux servers and configuring secure production environments
+
+I've worked on:
+- Bots with Stripe, YooKassa, and CryptoBot payments
+- AI bots for psychological consulting and community engagement
+- Pet store bots with admin panels and shopping cart systems
+- Tools for validators and crypto communities
+
+I’m constantly improving and learning by doing real client work and building my own systems.
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osiriser&show_icons=true&hide_border=true&theme=default" width="60%"/>
+</p>
+
+---
+
+### ✉️ How to Reach Me
+
+- Email: radomir2012b@gmail.com  
+- Telegram: [@your_username](https://t.me/your_username)  
+- GitHub: [osiriser](https://github.com/osiriser)
+
+---
+
+> “Build early, fail fast, learn faster.”  
+> — That's how I move forward.
