@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm Radomir Bakhtigareev, a 16 y.o. developer from Russia.  
+Hi! I'm Radomir Bakhtigareev, a software developer and entrepreneur from Russia.  
 I'm passionate about building real-world products using Python, Kotlin, PostgreSQL, and AI technologies.  
 
 I specialize in:
@@ -63,8 +63,8 @@ I’m constantly improving and learning by doing real client work and building m
 
 ### ✉️ How to Reach Me
 
-- Email: radomir2012b@gmail.com  
-- Telegram: [@your_username](https://t.me/your_username)  
+- Email: radomircomp@gmail.com  
+- Telegram: [@your_username](https://t.me/killipls)  
 - GitHub: [osiriser](https://github.com/osiriser)
 
 ---
